@@ -4,7 +4,7 @@ Welcome to the Docker Labs Repository! This repository contains a collection of 
 
 # Prerequisites
 Make sure you have the software installed on your system:
-Docker: [Install Docker](https://docs.docker.com/get-docker/)
+Docker:- [Install Docker](https://docs.docker.com/get-docker/)
 
 ## Introduction to Docker
 
