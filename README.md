@@ -2,7 +2,7 @@
 
 Welcome to the Docker Labs Repository! This repository contains a collection of Docker labs and exercises to help you learn and practice using Docker for containerization, from the basics of container creation to more advanced topics like orchestration. Each lab is designed to guide you through specific Docker tasks and scenarios, allowing you to gain hands-on experience with containerization.
 
-# Prerequisites
+## Prerequisites
 Make sure you have the software installed on your system:
 Docker:- [Install Docker](https://docs.docker.com/get-docker/)
 
