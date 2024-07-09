@@ -21,7 +21,8 @@ Docker provides the following key benefits:
 - **Version Control:** Docker images, which serve as the blueprints for containers, can be versioned and stored in repositories. This enables version control and easy sharing of application configurations.
 
 - **Orchestration:** Docker can be integrated with orchestration tools like Kubernetes and Docker Swarm for managing and scaling containerized applications in a cluster.
-_________
+
+## Contributing
 
 Whether you want to add new labs, fix issues, or improve existing content, your contributions are greatly appreciated. 
 
